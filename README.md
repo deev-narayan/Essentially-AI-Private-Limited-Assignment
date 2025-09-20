@@ -14,8 +14,8 @@ You can view and interact with the live project here:
 ## Features
 
 * **Responsive Design:** The layout adapts to different screen sizes, working on both mobile and desktop browsers.
-* **Feature 2:** [Describe another key feature of your app].
-* **Feature 3:** [Describe another key feature of your app].
+* **Feature 2:** It has two theme mode "Light" and "Dark" mode.
+* **Feature 3:** "Tables are used to showcase the trending markets".
 
 ## Built With
 
